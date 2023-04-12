@@ -5,6 +5,11 @@ export default {
     token: '',
   },
   mutations: {
+    /**
+     * 
+     * @param {*} state 
+     * @param {*} val 
+     */
     setToken(state, val) {
       state.token = val;
       Cookie.set('token', val);

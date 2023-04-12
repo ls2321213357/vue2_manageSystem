@@ -8,6 +8,7 @@ export const getMenu = (param) => {
     data: param,
   });
 };
+
 export const getDate = () => {
   return axios.request({
     url: '/home/getData',

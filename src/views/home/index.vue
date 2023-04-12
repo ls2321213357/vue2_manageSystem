@@ -139,6 +139,7 @@ export default {
           color: '#5ab1ef',
         },
       ],
+      //echart数据
       echartData: {
         order: {
           xData: [],
