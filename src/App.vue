@@ -6,7 +6,10 @@
 export default {
   name: 'app',
   data() {
-    return {};
+    return {
+    name:'gmq',
+    address:'河北唐山'
+    };
   },
 };
 </script>
