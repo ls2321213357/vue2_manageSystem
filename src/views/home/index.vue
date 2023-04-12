@@ -96,8 +96,8 @@ export default {
       userImg: require('@/assets/images/user.png'),
       tableData: [],
       tableLable: {
-        name: '品牌',
-        todayBuy: '日销量',
+        name: '品牌1',
+        todayBuy: '日销量1',
         monthBuy: '月销量',
         totalBuy: '总销量',
       },
