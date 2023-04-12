@@ -14,7 +14,6 @@ class HttpRequest {
   getInsideConfig() {
     const config = {
       baseUrl: this.baseUrl,
-      header: {},
     };
     return config;
   }

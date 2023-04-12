@@ -48,6 +48,12 @@ export default {
       state.menu = [];
       Cookie.remove('menu');
     },
+    /**
+     * 
+     * @param {*} state 
+     * @param {*} router 
+     * @returns 
+     */
     addMenu(state, router) {
       if (!Cookie.get('menu')) {
         return;
