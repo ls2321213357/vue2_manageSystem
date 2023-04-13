@@ -1,4 +1,3 @@
-
 <template>
   <router-view></router-view>
 </template>
@@ -6,9 +5,9 @@
 <script>
 export default {
   name: 'app',
-    data(){
+  data(){
     return {
-      name:'LS'
+      name:'ls'
     }
   }
 };
