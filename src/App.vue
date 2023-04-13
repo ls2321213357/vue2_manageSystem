@@ -8,7 +8,8 @@ export default {
   data(){
     return {
       name:'ls',
-      age:23
+      age:23,
+      sex:'男'
     }
   }
 };
