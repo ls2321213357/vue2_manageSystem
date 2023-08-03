@@ -11,6 +11,7 @@ export default {
       age: 23,
       sex: '男',
       hobby: '123123',
+      hobby: '123456',
     };
   },
 };
