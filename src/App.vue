@@ -10,8 +10,8 @@ export default {
       name: 'ls',
       age: 23,
       sex: '男',
-      hobby: '123123',
-      hobby: '123456',
+      hobby: '3',
+      hobby: '4',
     };
   },
 };
