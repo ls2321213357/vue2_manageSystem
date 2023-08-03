@@ -7,8 +7,9 @@ export default {
   name: 'app',
   data() {
     return {
-      name:'ls',
-      age:22
+      name: 'ls',
+      age: 23,
+      address: '河北唐山市丰润区',
     };
   },
 };
