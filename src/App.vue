@@ -7,8 +7,10 @@ export default {
   name: 'app',
   data() {
     return {
-      name:'ls',
-      age:22
+      name: 'ls',
+      age: 22,
+      address: '河北省唐山市',
+      hobby: '游戏',
     };
   },
 };
