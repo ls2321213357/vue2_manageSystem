@@ -9,8 +9,7 @@ export default {
     return {
       name: 'ls',
       age: 23,
-      sex: '男',
-      hobby: '13',
+      sex: '男'
     };
   },
 };
