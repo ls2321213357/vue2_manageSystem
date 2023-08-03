@@ -8,9 +8,9 @@ export default {
   data() {
     return {
       name: 'ls',
-      age: 22,
-      address: '河北省唐山市',
       hobby: '游戏',
+      age: 23,
+      address: '河北唐山市丰润区',
     };
   },
 };
