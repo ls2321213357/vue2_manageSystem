@@ -61,6 +61,7 @@ export default {
   },
   methods: {
     login() {
+      console.log(111)
       getMenu(this.form).then(({ data: res }) => {
         console.log(res);
         if (res.code === 20000) {
