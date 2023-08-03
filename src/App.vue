@@ -5,13 +5,14 @@
 <script>
 export default {
   name: 'app',
-  data(){
+  data() {
     return {
-      name:'ls',
-      age:23,
-      sex:'男'
-    }
-  }
+      name: 'ls',
+      age: 23,
+      sex: '男',
+      hobby: 'coding',
+    };
+  },
 };
 </script>
 
