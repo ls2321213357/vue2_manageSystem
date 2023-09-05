@@ -15,6 +15,11 @@ const routes = [
     name: 'login',
     component: () => import('../views/login/index.vue'),
   },
+  {
+    path: '/test',
+    name: 'test',
+    component: () => import('../views/test/index.vue'),
+  },
 ];
 const router = new VueRouter({
   mode: 'history',
